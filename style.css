@@ -1,0 +1,28 @@
+p {
+    font-size: 110px;
+    writing-mode: vertical-rl;
+    padding-left: 30%;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+img {
+    
+    display: block;
+  }
+body {
+    background-color: black;
+}
+.container{
+    display: inline-flex;
+}
+.a {
+    margin-left: 65px;
+    margin-right: 250px;
+}
+.b {
+    margin-left: 250px;
+    margin-right: 65px;
+}
